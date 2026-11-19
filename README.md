@@ -11,7 +11,7 @@ Bản thiết kế UI (Figma) cho **cổng thông tin sinh viên** của Khoa C�
 ```
 Figma/
 ├── design/
-│   └── Thietke.fig      # File Figma gốc (~7 MB)
+│   └── Thietke.fig    
 └── README.md
 ```
 
