@@ -9,30 +9,11 @@ Bản thiết kế UI (Figma) cho **website thương mại điện tử nông s�
 ```
 Figma/
 ├── design/
-│   ├── Thietke.fig          # File Figma gốc
-│   └── screens/
+│   └── 
 │       ├── trang-chu.png    # Trang chủ
 │       └── san-pham.png     # Trang danh sách sản phẩm
 └── README.md
 ```
-
-## 🔗 Xem bản thiết kế
-
-- **Figma online:** [Mở trên Figma](https://www.figma.com/design/...) <!-- dán link Share vào đây -->
-- **File gốc:** [`design/Thietke.fig`](design/Thietke.fig). Tải về rồi kéo thả vào [figma.com](https://www.figma.com) để mở.
-
----
-
-## 📸 Giao diện
-
-### 🏠 Trang chủ
-![Trang chủ](design/screens/trang-chu.png)
-
-### 🛒 Trang danh sách sản phẩm
-![Danh sách sản phẩm](design/screens/san-pham.png)
-
----
-
 ## 🖥️ Chi tiết các trang
 
 ### 1. Trang chủ
