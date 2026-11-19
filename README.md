@@ -9,11 +9,28 @@ Bản thiết kế UI (Figma) cho **website thương mại điện tử nông s�
 ```
 Figma/
 ├── design/
-│   └── 
+│   └── screens/
 │       ├── trang-chu.png    # Trang chủ
 │       └── san-pham.png     # Trang danh sách sản phẩm
 └── README.md
 ```
+
+## 🔗 Xem bản thiết kế
+
+- **Figma online:** [Mở trên Figma](https://www.figma.com/design/...) <!-- dán link Share vào đây -->
+
+---
+
+## 📸 Giao diện
+
+### 🏠 Trang chủ
+![Trang chủ](design/screens/trang-chu.png)
+
+### 🛒 Trang danh sách sản phẩm
+![Danh sách sản phẩm](design/screens/san-pham.png)
+
+---
+
 ## 🖥️ Chi tiết các trang
 
 ### 1. Trang chủ
@@ -55,8 +72,17 @@ Figma/
 
 ---
 
+## 👥 Thành viên nhóm
+
+| STT | Họ tên | MSSV | Phụ trách |
+|---|---|---|---|
+| 1 | Phạm Nguyễn Yến Hà | | |
+| 2 | Trần Tân Thuận | | |
+| 3 | Phạm Mai Trong Hiếu | | |
+| 4 | Bùi Thành Đạt | | |
+| 5 | Trần Nguyễn Gia Huy | | |
 
 ## 📌 Ghi chú
 
 - Sản phẩm, giá, đánh giá và thông tin liên hệ trong thiết kế chỉ là **dữ liệu mẫu**.
-- Mỗi lần cập nhật thiết kế: dùng **File → Save local copy…** để ghi đè `design/Thietke.fig`, xuất lại ảnh vào `design/screens/`, rồi commit và push.
+- Mỗi lần cập nhật thiết kế: xuất lại ảnh PNG từ Figma vào `design/screens/`, rồi commit và push.
